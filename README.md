@@ -14,6 +14,7 @@ I like projects that have a real backend shape: authentication, idempotency, con
 
 | Project | Stack | What it shows |
 | --- | --- | --- |
+| [oss-scout](https://github.com/kamilch1k/oss-scout) | ASP.NET Core, Go | Scores open-source issues by fit, recency, labels, backend signals, and contribution risk with tests and a Go worker |
 | [plata-ledger-core](https://github.com/kamilch1k/plata-ledger-core) | Go, PostgreSQL | Idempotent double-entry ledger, concurrency-safe transfers, no-overdraft guarantees, real Postgres tests |
 | [job-application-tracker-api](https://github.com/kamilch1k/job-application-tracker-api) | ASP.NET Core, EF Core | Auth, user-owned resources, migrations, dashboard queries, reminders, integration tests |
 | [mixed-order-ledger-system](https://github.com/kamilch1k/mixed-order-ledger-system) | .NET, Go | Order API, durable outbox events, Go worker processing, ledger entries, end-to-end local verification |
