@@ -14,6 +14,7 @@ I like projects that have a real backend shape: authentication, idempotency, con
 
 | Project | Stack | What it shows |
 | --- | --- | --- |
+| [signalforge](https://github.com/kamilch1k/signalforge) | ASP.NET Core, SQLite, GitHub API | Maps backend vacancies to open-source proof opportunities, explains scoring, tracks proof actions with idempotency keys, ships with UI, CI, Docker, tests |
 | [oss-scout](https://github.com/kamilch1k/oss-scout) | ASP.NET Core, Go | Scores open-source issues by fit, recency, labels, backend signals, and contribution risk with tests and a Go worker |
 | [vacancy-signal-radar](https://github.com/kamilch1k/vacancy-signal-radar) | ASP.NET Core, Go, SQLite | Scores backend job postings and persists apply/watch/skip decisions with idempotency-key protection |
 | [plata-ledger-core](https://github.com/kamilch1k/plata-ledger-core) | Go, PostgreSQL | Idempotent double-entry ledger, concurrency-safe transfers, no-overdraft guarantees, real Postgres tests |
