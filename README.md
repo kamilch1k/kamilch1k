@@ -22,6 +22,12 @@ I like projects that have a real backend shape: authentication, idempotency, con
 | [hire-bridge](https://github.com/kamilch1k/hire-bridge) | TypeScript | Webhooks, retries, drift reconciliation, append-only audit trail |
 | [droolcat-agent](https://github.com/kamilch1k/droolcat-agent) | JavaScript | Visual cockpit for CLI agents with live actions, windows, and navigable graphs |
 
+## Systems and game tech
+
+| Project | Stack | What it shows |
+| --- | --- | --- |
+| [voxv2-mobile-voxel-renderer](https://github.com/kamilch1k/voxv2-mobile-voxel-renderer) | Unity, C#, Burst, ShaderLab | Chunked voxel storage, greedy meshing, procedural generation, mobile controls, shaders, and source-only packaging |
+
 ## What I am sharpening
 
 - Backend APIs with clean contracts and useful tests
