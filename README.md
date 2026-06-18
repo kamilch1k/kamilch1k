@@ -27,6 +27,7 @@ I like projects that have a real backend shape: authentication, idempotency, con
 
 | Project | Stack | What it shows |
 | --- | --- | --- |
+| [lattice-survivors](https://github.com/kamilch1k/lattice-survivors) | Three.js, WebGL, JavaScript | Procedural shader arena, full-screen 3D rendering, wave gameplay, desktop/mobile controls, GitHub Pages deployment |
 | [voxv2-mobile-voxel-renderer](https://github.com/kamilch1k/voxv2-mobile-voxel-renderer) | Unity, C#, Burst, ShaderLab | Chunked voxel storage, greedy meshing, procedural generation, mobile controls, shaders, and source-only packaging |
 
 ## What I am sharpening
