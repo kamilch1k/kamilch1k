@@ -16,6 +16,7 @@ I like projects that have a real backend shape: authentication, idempotency, con
 | --- | --- | --- |
 | [settlement-recon](https://github.com/kamilch1k/settlement-recon) | Go, HTTP, CSV | Deterministic payment settlement reconciliation, mismatch classification, strict CSV parsing, CLI/API workflows, sample data, tests, Docker, CI |
 | [cacheguard](https://github.com/kamilch1k/cacheguard) | ASP.NET Core, .NET | Resilient API gateway demo with rate limiting, request coalescing, circuit breaker, stale cache fallback, tests, Docker, CI |
+| [migrationsafe](https://github.com/kamilch1k/migrationsafe) | Go, PostgreSQL, SQL | Migration safety checker for destructive DDL, unsafe indexes, locking risks, text/JSON reports, sample migrations, tests, Docker, CI |
 | [ledgerline](https://github.com/kamilch1k/ledgerline) | Go, PostgreSQL | Idempotent double-entry ledger, concurrency-safe transfers, no-overdraft guarantees, real Postgres tests |
 | [signalforge](https://github.com/kamilch1k/signalforge) | ASP.NET Core, SQLite, GitHub API | Maps backend vacancies to open-source proof opportunities, explains scoring, tracks proof actions with idempotency keys, ships with UI, CI, Docker, tests |
 | [oss-scout](https://github.com/kamilch1k/oss-scout) | ASP.NET Core, Go | Scores open-source issues by fit, recency, labels, backend signals, and contribution risk with tests and a Go worker |
