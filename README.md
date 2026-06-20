@@ -25,7 +25,7 @@ I like projects that have a real backend shape: authentication, idempotency, con
 | [mixed-order-ledger-system](https://github.com/kamilch1k/mixed-order-ledger-system) | .NET, Go | Order API, durable outbox events, Go worker processing, ledger entries, end-to-end local verification |
 | [go-url-shortener-api](https://github.com/kamilch1k/go-url-shortener-api) | Go | Short links, redirects, click analytics, rate limiting, metrics, HTTP tests |
 | [variantlens](https://github.com/kamilch1k/variantlens) | ASP.NET Core, .NET | A/B experiment analysis API with confidence intervals, sequential guardrails, revenue-risk checks, Docker, CI, and sample payloads |
-| [repoguard](https://github.com/kamilch1k/repoguard) | Go, HTTP, CLI | Repository security scanner for provider-shaped secrets, risky config, entropy findings, MCP JSON secrets, CI-friendly reports |
+| [repoguard](https://github.com/kamilch1k/repoguard) | Go, HTTP, CLI | Agent-first security scanner with SARIF, OpenAPI, GitHub Action, SDK examples, MCP-style tool server, secret/MCP/agent config checks |
 
 ## Scientific and infrastructure projects
 
