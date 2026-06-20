@@ -31,6 +31,7 @@ I like projects that have a real backend shape: authentication, idempotency, con
 
 | Project | Stack | What it shows |
 | --- | --- | --- |
+| [rotorforge](https://github.com/kamilch1k/rotorforge) | Go, Three.js, WebGL | 6-DOF quadcopter physics simulator with motor lag, wind fields, fault-tolerant motor allocation, API/CLI telemetry, and hosted replay viewer |
 | [skyfence](https://github.com/kamilch1k/skyfence) | Go, HTTP, CLI | Drone mission safety validator for geofences, no-fly zones, altitude limits, payload, battery reserve, and return-home risk |
 | [dronefleetsim](https://github.com/kamilch1k/dronefleetsim) | ASP.NET Core, .NET | Fleet scheduling simulator with payload, battery, launch-pad, deadline, and route-separation constraints |
 | [telemetryforge](https://github.com/kamilch1k/telemetryforge) | Go, HTTP, CLI | NDJSON telemetry analyzer for speed spikes, signal loss, altitude violations, battery drain, and geofence breaches |
@@ -53,6 +54,10 @@ I like projects that have a real backend shape: authentication, idempotency, con
 Generated from live local API runs against the sample mission, fleet, telemetry, and mapping payloads.
 
 [![Drone backend project suite](assets/drone-projects/drone-backend-suite.png)](https://github.com/kamilch1k?tab=repositories)
+
+| RotorForge |
+| --- |
+| [![RotorForge 6-DOF drone physics replay](assets/drone-projects/rotorforge.png)](https://kamilch1k.github.io/rotorforge/) |
 
 | SkyFence | DroneFleetSim |
 | --- | --- |
