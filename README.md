@@ -1,6 +1,6 @@
 # kamilch1k
 
-Backend-focused developer building practical systems in .NET, Go, and TypeScript, with a growing focus on reliability, security, data-heavy APIs, and simulation tools.
+Backend-focused developer building practical systems in .NET, Go, and TypeScript, with a growing focus on reliability, security, data-heavy APIs, geospatial workflows, and simulation tools.
 
 I like projects that have a real backend shape: authentication, idempotency, concurrency, outbox-style workflows, metrics, tests, and local verification scripts. Right now I am building a portfolio around APIs and services that can be cloned, run, tested, and discussed in interviews.
 
@@ -26,6 +26,15 @@ I like projects that have a real backend shape: authentication, idempotency, con
 | [go-url-shortener-api](https://github.com/kamilch1k/go-url-shortener-api) | Go | Short links, redirects, click analytics, rate limiting, metrics, HTTP tests |
 | [variantlens](https://github.com/kamilch1k/variantlens) | ASP.NET Core, .NET | A/B experiment analysis API with confidence intervals, sequential guardrails, revenue-risk checks, Docker, CI, and sample payloads |
 | [repoguard](https://github.com/kamilch1k/repoguard) | Go, HTTP, CLI | Agent-first security scanner with SARIF, OpenAPI, GitHub Action, SDK examples, MCP-style tool server, secret/MCP/agent config checks |
+
+## Drone and robotics backend projects
+
+| Project | Stack | What it shows |
+| --- | --- | --- |
+| [skyfence](https://github.com/kamilch1k/skyfence) | Go, HTTP, CLI | Drone mission safety validator for geofences, no-fly zones, altitude limits, payload, battery reserve, and return-home risk |
+| [dronefleetsim](https://github.com/kamilch1k/dronefleetsim) | ASP.NET Core, .NET | Fleet scheduling simulator with payload, battery, launch-pad, deadline, and route-separation constraints |
+| [telemetryforge](https://github.com/kamilch1k/telemetryforge) | Go, HTTP, CLI | NDJSON telemetry analyzer for speed spikes, signal loss, altitude violations, battery drain, and geofence breaches |
+| [mapstitch-queue](https://github.com/kamilch1k/mapstitch-queue) | ASP.NET Core, .NET | Drone mapping queue planner with image-batch validation, CPU/GPU worker assignment, memory estimates, and stage timelines |
 
 ## Scientific and infrastructure projects
 
