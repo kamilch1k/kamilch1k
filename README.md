@@ -52,6 +52,8 @@ I like projects that have a real backend shape: authentication, idempotency, con
 
 Generated from live local API runs against the sample mission, fleet, telemetry, and mapping payloads.
 
+[![Drone backend project suite](assets/drone-projects/drone-backend-suite.png)](https://github.com/kamilch1k?tab=repositories)
+
 | SkyFence | DroneFleetSim |
 | --- | --- |
 | [![SkyFence drone mission safety dashboard](assets/drone-projects/skyfence.png)](https://github.com/kamilch1k/skyfence) | [![DroneFleetSim fleet scheduling dashboard](assets/drone-projects/dronefleetsim.png)](https://github.com/kamilch1k/dronefleetsim) |
