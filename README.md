@@ -1,6 +1,6 @@
 # kamilch1k
 
-Backend-focused developer building practical systems in .NET, Go, and TypeScript.
+Backend-focused developer building practical systems in .NET, Go, and TypeScript, with a growing focus on reliability, security, data-heavy APIs, and simulation tools.
 
 I like projects that have a real backend shape: authentication, idempotency, concurrency, outbox-style workflows, metrics, tests, and local verification scripts. Right now I am building a portfolio around APIs and services that can be cloned, run, tested, and discussed in interviews.
 
@@ -24,15 +24,18 @@ I like projects that have a real backend shape: authentication, idempotency, con
 | [job-application-tracker-api](https://github.com/kamilch1k/job-application-tracker-api) | ASP.NET Core, EF Core | Auth, user-owned resources, migrations, dashboard queries, reminders, integration tests |
 | [mixed-order-ledger-system](https://github.com/kamilch1k/mixed-order-ledger-system) | .NET, Go | Order API, durable outbox events, Go worker processing, ledger entries, end-to-end local verification |
 | [go-url-shortener-api](https://github.com/kamilch1k/go-url-shortener-api) | Go | Short links, redirects, click analytics, rate limiting, metrics, HTTP tests |
-| [hire-bridge](https://github.com/kamilch1k/hire-bridge) | TypeScript | Webhooks, retries, drift reconciliation, append-only audit trail |
-| [droolcat-agent](https://github.com/kamilch1k/droolcat-agent) | JavaScript | Visual cockpit for CLI agents with live actions, windows, and navigable graphs |
+| [variantlens](https://github.com/kamilch1k/variantlens) | ASP.NET Core, .NET | A/B experiment analysis API with confidence intervals, sequential guardrails, revenue-risk checks, Docker, CI, and sample payloads |
+| [repoguard](https://github.com/kamilch1k/repoguard) | Go, HTTP, CLI | Repository security scanner for provider-shaped secrets, risky config, entropy findings, MCP JSON secrets, CI-friendly reports |
 
-## Systems and game tech
+## Scientific and infrastructure projects
 
 | Project | Stack | What it shows |
 | --- | --- | --- |
-| [lattice-survivors](https://github.com/kamilch1k/lattice-survivors) | Three.js, WebGL, JavaScript | Procedural shader arena, full-screen 3D rendering, wave gameplay, desktop/mobile controls, GitHub Pages deployment |
-| [voxv2-mobile-voxel-renderer](https://github.com/kamilch1k/voxv2-mobile-voxel-renderer) | Unity, C#, Burst, ShaderLab | Chunked voxel storage, greedy meshing, procedural generation, mobile controls, shaders, and source-only packaging |
+| [shardlab](https://github.com/kamilch1k/shardlab) | Go, HTTP, CLI | Distributed sharding simulator comparing modulo, consistent, and rendezvous hashing under topology changes and hot-key workloads |
+| [queuescope](https://github.com/kamilch1k/queuescope) | ASP.NET Core, .NET | Queue capacity planning with Erlang C, deterministic Monte Carlo simulation, SLO breach estimates, and API smoke tests |
+| [driftwatch](https://github.com/kamilch1k/driftwatch) | Go, HTTP, CLI | Streaming anomaly and drift detection with rolling median/MAD, EWMA, Page-Hinkley-style checks, and reproducible fixtures |
+| [streamsketch](https://github.com/kamilch1k/streamsketch) | Go, HTTP, CLI | Approximate stream analytics using HyperLogLog-style distinct counts and Count-Min Sketch heavy hitters |
+| [evalpulse](https://github.com/kamilch1k/evalpulse) | ASP.NET Core, .NET | AI eval/observability backend with golden datasets, regression gates, drift reports, and cost/latency budgets |
 
 ## What I am sharpening
 
