@@ -31,6 +31,8 @@ I like projects that have a real backend shape: authentication, idempotency, con
 
 | Project | Stack | What it shows |
 | --- | --- | --- |
+| [impulselab](https://github.com/kamilch1k/impulselab) | Go, HTTP, CLI | Deterministic 2D rigid-body physics engine with impulse collision response, friction/restitution, energy metrics, samples, tests, Docker, CI |
+| [orbitforge](https://github.com/kamilch1k/orbitforge) | ASP.NET Core, .NET | N-body orbital simulation backend with velocity-Verlet integration, conservation metrics, close-approach events, CLI/API, samples, tests, Docker, CI |
 | [shardlab](https://github.com/kamilch1k/shardlab) | Go, HTTP, CLI | Distributed sharding simulator comparing modulo, consistent, and rendezvous hashing under topology changes and hot-key workloads |
 | [queuescope](https://github.com/kamilch1k/queuescope) | ASP.NET Core, .NET | Queue capacity planning with Erlang C, deterministic Monte Carlo simulation, SLO breach estimates, and API smoke tests |
 | [driftwatch](https://github.com/kamilch1k/driftwatch) | Go, HTTP, CLI | Streaming anomaly and drift detection with rolling median/MAD, EWMA, Page-Hinkley-style checks, and reproducible fixtures |
