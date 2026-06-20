@@ -48,6 +48,18 @@ I like projects that have a real backend shape: authentication, idempotency, con
 | [streamsketch](https://github.com/kamilch1k/streamsketch) | Go, HTTP, CLI | Approximate stream analytics using HyperLogLog-style distinct counts and Count-Min Sketch heavy hitters |
 | [evalpulse](https://github.com/kamilch1k/evalpulse) | ASP.NET Core, .NET | AI eval/observability backend with golden datasets, regression gates, drift reports, and cost/latency budgets |
 
+## Drone project screenshots
+
+Generated from live local API runs against the sample mission, fleet, telemetry, and mapping payloads.
+
+| SkyFence | DroneFleetSim |
+| --- | --- |
+| [![SkyFence drone mission safety dashboard](assets/drone-projects/skyfence.png)](https://github.com/kamilch1k/skyfence) | [![DroneFleetSim fleet scheduling dashboard](assets/drone-projects/dronefleetsim.png)](https://github.com/kamilch1k/dronefleetsim) |
+
+| TelemetryForge | MapStitch Queue |
+| --- | --- |
+| [![TelemetryForge telemetry anomaly dashboard](assets/drone-projects/telemetryforge.png)](https://github.com/kamilch1k/telemetryforge) | [![MapStitch Queue drone mapping planner dashboard](assets/drone-projects/mapstitch-queue.png)](https://github.com/kamilch1k/mapstitch-queue) |
+
 ## What I am sharpening
 
 - Backend APIs with clean contracts and useful tests
